@@ -2,7 +2,7 @@
 > This project demonstrates a T20 World Cup 2024 Match Insights System built using MySQL.
 It contains queries for analyzing match data, team performance, toss outcomes, player awards, and venue-based insights — helping to uncover trends such as winning patterns, chasing success rates, and impact of toss decisions on match results.
 
-># # Tools Used
+>#  Tools Used
 > - MySQL – for data storage, querying, and analysis
 > - CSV File – T20 World Cup 2024 match dataset (t20wc.csv)
 
